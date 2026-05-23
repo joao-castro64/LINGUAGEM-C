@@ -171,7 +171,7 @@ void priorizarPessoa(Fila fila, int id){
 	
 		
 		
-// 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
+
 		
 		
 		
